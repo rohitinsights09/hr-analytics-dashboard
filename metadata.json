@@ -1,0 +1,6 @@
+{
+  "name": "HR Analytics Command Center",
+  "description": "Interactive HR MIS and workforce analytics dashboard covering recruitment, workforce, attrition, attendance and performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
