@@ -28,7 +28,7 @@ Built with a synthetic enterprise dataset of **1,500 active and separated employ
 - **Focus Areas:** Recruitment MIS • HR Operations • Workforce Analytics • Employee Reporting • HR Data Visualization
 - **LinkedIn:** [(https://www.linkedin.com/in/rohit-shinde)]
 - **GitHub:** [(https://github.com/rohitinsights09)]
-- **Portfolio:** [(https://github.com/rohitinsights09/hr-analytics-command-center)]
+- **Portfolio:** [(https://hr-analytics-dashboard-dusky.vercel.app/)]
 
 ---
 
