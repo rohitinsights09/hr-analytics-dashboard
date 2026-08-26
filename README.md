@@ -1,4 +1,4 @@
-# 📊 HR Analytics Command Center
+# 📊 HR Analytics Dashboard
 
 **HR MIS & Analytics Portfolio Project**
 
